@@ -3,7 +3,7 @@
 This is an example of using the rust tikv client to
 talk to tikv.  It uses `docker stack` to bring up tikv.
 
-It's based on [this document](https://tikv.org/docs/4.0/tasks/try/docker-stack/).
+Everything in this repository is based on [this official document](https://tikv.org/docs/4.0/tasks/try/docker-stack/). But we had to make changes to get the client app `Dockerfile` working.
 
 ## start tikv using docker stack
 
