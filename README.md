@@ -23,5 +23,5 @@ docker build -t hello-tikv-rust .
 ## run the client app
 
 ```sh
-docker run -ti --rm --network tikv tikv-example
+docker run -ti --rm --network tikv hello-tikv-rust
 ```
