@@ -1,7 +1,7 @@
 # hello tikv + rust
 
 This is an example of using the rust tikv client to
-talk to tikv.  
+talk to tikv.  It uses `docker stack` to bring up tikv.
 
 It's based on [this document](https://tikv.org/docs/4.0/tasks/try/docker-stack/).
 
